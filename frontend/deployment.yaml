@@ -47,7 +47,7 @@ spec:
         - --random-error=false
         env:
         - name: PODINFO_UI_COLOR
-          value: "#FB2F04"
+          value: "#04FB22"
         livenessProbe:
           exec:
             command:
